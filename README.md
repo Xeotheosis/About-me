@@ -1,4 +1,4 @@
-![Hi, I'm Andrei.  I'm a complete newbie, aspiring to become a frontend developer. Check out my work](https://www.frontendmentor.io/profile/Xeotheosis)
+!Hi, I'm Andrei.  I'm a complete newbie, aspiring to become a frontend developer. Check out my work(https://www.frontendmentor.io/profile/Xeotheosis)
 
 ## <strong>About Me:</strong>
 
